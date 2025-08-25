@@ -116,7 +116,7 @@ This week shows how quickly AI is disrupting **design, gaming, video, and modeli
 ## 🔗 Follow & Support
 - 🐦 Twitter/X: [@airesearch_ai](https://x.com/airesearch_ai)  
 - ☕ Support: [Ko-fi](https://ko-fi.com/airesearchs)  
-- 🎥 Subscribe for more: [AI Research YouTube](https://www.youtube.com/@airesearch_ai)
+- 🎥 Subscribe for more: [AI Research YouTube](https://www.youtube.com/@airesearchofficial/)
 
 ---
 
