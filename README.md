@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[Veo 3 is FREE, AI Video With Audio, Animate Anyone, new LLM, Claude Chrome | Huge AI News](videos/2025/sep-veo3-free-ai-video-audio/README.md)**  
+  _(Week of September 1, 2025)_ → [Watch on YouTube](https://youtu.be/RSaeCq7G6Y4)
 - **[Google Kills Photoshop, New DeepSeek, Image to Video Games, Crazy Real Talking AI](videos/2025/aug-google-kills-photoshop-deepseek-v3/README.md)**  
   _(Week of August 25, 2025)_ → [Watch on YouTube](https://youtu.be/Zms6dljJguo)
 
