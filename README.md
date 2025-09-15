@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[New AI BEATS GPT-5, Best Image Models, Realistic Avatars, New Video Generator | Huge AI News](videos/2025/sep-new-ai-beats-gpt5-best-image-models/README.md)**  
+  _(Week of September 15, 2025)_ → [Watch on YouTube](https://youtu.be/GWL6sS13aok)
 - **[This New AI BEATS NanoBanana, Grok Fast Code, Open-Source LLM, Realtime Minecraft | Huge AI News](videos/2025/sep-new-ai-beats-nanobanana-grok-fast-code/README.md)**  
   _(Week of September 8, 2025)_ → [Watch on YouTube](https://youtu.be/V2NCJ1iNzDU)
 - **[Veo 3 is FREE, AI Video With Audio, Animate Anyone, new LLM, Claude Chrome | Huge AI News](videos/2025/sep-veo3-free-ai-video-audio/README.md)**  
