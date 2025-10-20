@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[New Google Models, new open-source king, Grok 5, AI for cancer, new AI image editors - HUGE AI NEWS](videos/2025/oct-new-google-models-grok-5-ai-cancer/README.md)**  
+  _(Week of October 20, 2025)_ → [Watch on YouTube](https://youtu.be/2SZ9tiH_TCo)
 - **[Google GOD Mode: Veo 3.1, Gemini 3.0, Sora 2 PRO, Grok Imagine 0.9, TIni LLM – HUGE AI NEWS](videos/2025/oct-google-god-mode-veo-3-1-gemini-3-0/README.md)**  
   _(Week of October 16, 2025)_ → [Watch on YouTube](https://youtu.be/NIs6CBmr9TE)
 - **[Wan 2.5 is 😱, Alibaba’s Crazy AIs, Gemini’s New Model & DeepSeek Update – Huge AI NEWS!](videos/2025/oct-wan-2-5-alibabas-crazy-ais-gemini-update/README.md)**  
