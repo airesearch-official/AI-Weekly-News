@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[AI Just Took Over YouTube, New AI Kills Canva, ai images, game agents, character swap - Huge AI NEWS](videos/2025/nov-ai-takes-over-youtube-kills-canva/README.md)**  
+  _(Week of November 4, 2025)_ → [Watch on YouTube](https://youtu.be/9I8m1pqXIRU)
 - **[New AI Edits Any Video, #1 Open Source Model, Infinite, 4K and Realtime AI videos, quantum chip](videos/2025/oct-new-ai-edits-any-video-open-source-king/README.md)**  
   _(Week of October 27, 2025)_ → [Watch on YouTube](https://youtu.be/o4MwIVJ_QbU)
 - **[New Google Models, new open-source king, Grok 5, AI for cancer, new AI image editors - HUGE AI NEWS](videos/2025/oct-new-google-models-grok-5-ai-cancer/README.md)**  
