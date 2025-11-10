@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[Kimi K2 Thinking, Mind-Reading AI, NanoBanana 2, Humanoids, Realtime Videos – HUGE AI News](videos/2025/nov-kimi-k2-mind-reading-ai-nanobanana-2/README.md)**  
+  _(Week of November 11, 2025)_ → [Watch on YouTube](https://youtu.be/OxyL6wWqV4M)
 - **[AI Just Took Over YouTube, New AI Kills Canva, ai images, game agents, character swap - Huge AI NEWS](videos/2025/nov-ai-takes-over-youtube-kills-canva/README.md)**  
   _(Week of November 4, 2025)_ → [Watch on YouTube](https://youtu.be/9I8m1pqXIRU)
 - **[New AI Edits Any Video, #1 Open Source Model, Infinite, 4K and Realtime AI videos, quantum chip](videos/2025/oct-new-ai-edits-any-video-open-source-king/README.md)**  
