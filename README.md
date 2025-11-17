@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[Crazy Deepfakes, NEW Flux.2, GPT-5.1, AI Plays Any Game, Best Open Source TTS – HUGE AI NEWS](videos/2025/nov-crazy-deepfakes-flux2-gpt5-1/README.md)**  
+  _(Week of November 18, 2025)_ → [Watch on YouTube](https://youtu.be/6tF8zKKouMs)
 - **[Kimi K2 Thinking, Mind-Reading AI, NanoBanana 2, Humanoids, Realtime Videos – HUGE AI News](videos/2025/nov-kimi-k2-mind-reading-ai-nanobanana-2/README.md)**  
   _(Week of November 11, 2025)_ → [Watch on YouTube](https://youtu.be/OxyL6wWqV4M)
 - **[AI Just Took Over YouTube, New AI Kills Canva, ai images, game agents, character swap - Huge AI NEWS](videos/2025/nov-ai-takes-over-youtube-kills-canva/README.md)**  
