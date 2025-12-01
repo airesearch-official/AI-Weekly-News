@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[DeepSeek BEATS Gemini 3, AI Controls Android, Top Image Models, Open-Source Robots - HUGE AI NEWS](videos/2025/dec-deepseek-beats-gemini-3-ai-controls-android/README.md)**  
+  _(Week of December 1, 2025)_ → [Watch on YouTube](https://youtu.be/lvNwJTsYsIE)
 - **[Claude’s New Model, Google Dominates AI, Grok 4.1, GPT-Codex-Max, AI Controls Win 11 – HUGE AI NEWS](videos/2025/nov-claude-new-model-google-dominates-ai/README.md)**  
   _(Week of November 25, 2025)_ → [Watch on YouTube](https://youtu.be/7rKrwiKOYI4)
 - **[Crazy Deepfakes, NEW Flux.2, GPT-5.1, AI Plays Any Game, Best Open Source TTS – HUGE AI NEWS](videos/2025/nov-crazy-deepfakes-flux2-gpt5-1/README.md)**  
