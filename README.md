@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[#1 AI Video Model SHOCKS Everyone, Gemini 3 Flash, GLM 4.6 & Best Image Models – HUGE AI NEWS](videos/2025/dec-ai-video-model-shocks-everyone-gemini-3-flash/README.md)**  
+  _(Week of December 8, 2025)_ → [Watch on YouTube](https://youtu.be/wb8xO5CYA90)
 - **[DeepSeek BEATS Gemini 3, AI Controls Android, Top Image Models, Open-Source Robots - HUGE AI NEWS](videos/2025/dec-deepseek-beats-gemini-3-ai-controls-android/README.md)**  
   _(Week of December 1, 2025)_ → [Watch on YouTube](https://youtu.be/lvNwJTsYsIE)
 - **[Claude’s New Model, Google Dominates AI, Grok 4.1, GPT-Codex-Max, AI Controls Win 11 – HUGE AI NEWS](videos/2025/nov-claude-new-model-google-dominates-ai/README.md)**  
