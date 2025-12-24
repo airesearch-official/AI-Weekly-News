@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[New #1 Open AI Model, Photoshop Killer AI, Realtime Video & Gemini 3 Flash – HUGE AI NEWS](videos/2025/dec-new-open-ai-model-photoshop-killer/README.md)**  
+  _(Week of December 24, 2025)_ → [Watch on YouTube](https://youtu.be/H2RMD1PhrAc)
 - **[Wan 2.6, Tiny Expressive TTS, Realtime Avatars, AI Controls Android, Crazy 3B Model – HUGE AI NEWS](videos/2025/dec-wan-2-6-tiny-expressive-tts-realtime-avatars/README.md)**  
   _(Week of December 16, 2025)_ → [Watch on YouTube](https://youtu.be/cs4qEZKtepY)
 - **[#1 AI Video Model SHOCKS Everyone, Gemini 3 Flash, GLM 4.6 & Best Image Models – HUGE AI NEWS](videos/2025/dec-ai-video-model-shocks-everyone-gemini-3-flash/README.md)**  
