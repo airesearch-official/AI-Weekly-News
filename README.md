@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[#1 New Open-Source Video Model, Tiny AI Beats Big Ones, Realtime Voice & Music – HUGE AI NEWS](videos/2026/jan-new-open-source-video-model-tiny-ai-beats-big-ones/README.md)**  
+  _(Week of January 7, 2026)_ → [Watch on YouTube](https://youtu.be/kDq5Dw2t0Io)
 - **[Nano Banana Open Source, FREE Offline 4K Video Upscale, Long AI Videos, AI Plays Any Game – HUGE AI](videos/2025/dec-nano-banana-open-source-free-offline-4k-video-upscale/README.md)**  
   _(Week of December 31, 2025)_ → [Watch on YouTube](https://youtu.be/Y_aewarS3-g)
 - **[New #1 Open AI Model, Photoshop Killer AI, Realtime Video & Gemini 3 Flash – HUGE AI NEWS](videos/2025/dec-new-open-ai-model-photoshop-killer/README.md)**  
