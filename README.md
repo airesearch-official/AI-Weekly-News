@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[Veo 3.1 New Features, Claude Cowork, AI uses computer like a human, long-term memory – HUGE AI NEWS](videos/2026/jan-veo-3-1-claude-cowork-ai-memory/README.md)**  
+  _(Week of January 14, 2026)_ → [Watch on YouTube](https://youtu.be/9Qu4eqEthTc)
 - **[#1 New Open-Source Video Model, Tiny AI Beats Big Ones, Realtime Voice & Music – HUGE AI NEWS](videos/2026/jan-new-open-source-video-model-tiny-ai-beats-big-ones/README.md)**  
   _(Week of January 7, 2026)_ → [Watch on YouTube](https://youtu.be/kDq5Dw2t0Io)
 - **[Nano Banana Open Source, FREE Offline 4K Video Upscale, Long AI Videos, AI Plays Any Game – HUGE AI](videos/2025/dec-nano-banana-open-source-free-offline-4k-video-upscale/README.md)**  
