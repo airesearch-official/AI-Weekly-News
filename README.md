@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[Open-Source King Is Back, Real AI Livestreamers, Realtime Speech, Video Model, ClawdBot – HUGE AI](videos/2026/jan-open-source-king-is-back-real-ai-livestreamers/README.md)**  
+  _(Week of January 27, 2026)_ → [Watch on YouTube](https://youtu.be/HlDYI_G4Kb0)
 - **[X Goes Open, Realtime AI Video, Open-Source SUNO, New Open NanoBanana – HUGE AI NEWS](videos/2026/jan-x-goes-open-realtime-ai-video-open-suno/README.md)**  
   _(Week of January 21, 2026)_ → [Watch on YouTube](https://youtu.be/a2a4QkkeMZA)
 - **[Veo 3.1 New Features, Claude Cowork, AI uses computer like a human, long-term memory – HUGE AI NEWS](videos/2026/jan-veo-3-1-claude-cowork-ai-memory/README.md)**  
