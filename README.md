@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[Claude Opus 4.6, GPT-5.3 Codex, #1 AI Video, New Best Music & Image Gen – HUGE AI NEWS](videos/2026/feb-claude-opus-4-6-gpt-5-3-codex-ai-video-gen-ai-news/README.md)**  
+  _(Week of February 11, 2026)_ → [Watch on YouTube](https://youtu.be/__6RFnQdBRQ)
 - **[Open-Source King Is Back, Real AI Livestreamers, Realtime Speech, Video Model, ClawdBot – HUGE AI](videos/2026/jan-open-source-king-is-back-real-ai-livestreamers/README.md)**  
   _(Week of January 27, 2026)_ → [Watch on YouTube](https://youtu.be/HlDYI_G4Kb0)
 - **[X Goes Open, Realtime AI Video, Open-Source SUNO, New Open NanoBanana – HUGE AI NEWS](videos/2026/jan-x-goes-open-realtime-ai-video-open-suno/README.md)**  
