@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[Open Source Seedance 2, Reve 1.5, #1 AI Model, Realtime AI Video, Tiny TTS - HUGE AI NEWS](videos/2026/feb-reve-1-5-gemini-3-1-pro-seed-2-0-realtime-ai-video-news/README.md)**  
+  _(Week of February 25, 2026)_ → [Watch on YouTube](https://youtu.be/O1dxHEsCF2k)
 - **[Claude Sonnet 4.6, New #1 Image Model, GLM-5, Grok 4.2 & AI That Makes Anyone Sing — HUGE AI NEWS](videos/2026/feb-claude-sonnet-4-6-recraft-v4-glm-5-grok-4-2-ai-news/README.md)**  
   _(Week of February 18, 2026)_ → [Watch on YouTube](https://youtu.be/t98EiqRYZmA)
 - **[Claude Opus 4.6, GPT-5.3 Codex, #1 AI Video, New Best Music & Image Gen – HUGE AI NEWS](videos/2026/feb-claude-opus-4-6-gpt-5-3-codex-ai-video-gen-ai-news/README.md)**  
