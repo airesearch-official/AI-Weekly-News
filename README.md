@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[Gemini 3.1 Flash Lite, Best Offline AI, NanoBanana 2, AI Controls Phones & Text-to-SVG - HUGE AI](videos/2026/mar-gemini-3-1-flash-lite-best-offline-ai-nanobanana-2-ai-controls-phones/README.md)**  
+  _(Week of March 4, 2026)_ → [Watch on YouTube](https://youtu.be/lA--iM5asz4)
 - **[Open Source Seedance 2, Reve 1.5, #1 AI Model, Realtime AI Video, Tiny TTS - HUGE AI NEWS](videos/2026/feb-reve-1-5-gemini-3-1-pro-seed-2-0-realtime-ai-video-news/README.md)**  
   _(Week of February 25, 2026)_ → [Watch on YouTube](https://youtu.be/O1dxHEsCF2k)
 - **[Claude Sonnet 4.6, New #1 Image Model, GLM-5, Grok 4.2 & AI That Makes Anyone Sing — HUGE AI NEWS](videos/2026/feb-claude-sonnet-4-6-recraft-v4-glm-5-grok-4-2-ai-news/README.md)**  
