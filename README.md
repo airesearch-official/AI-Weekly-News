@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[New #1 Open Video Model, Top Image AI, DLS 5, AI classrooms — HUGE AI NEWS](videos/2026/mar-new-1-open-video-model-top-image-ai-dls-5-ai-classrooms/README.md)**  
+  _(Week of March 25, 2026)_ → [Watch on YouTube](https://youtu.be/QRqqIaEWL8g)
 - **[GPT-5.4 Mini Drops, Google New AI, Realtime Video, Play GTA in Real Life - HUGE AI Week](videos/2026/mar-gpt-5-4-mini-realtime-video-play-gta-in-real-life/README.md)**  
   _(Week of March 18, 2026)_ → [Watch on YouTube](https://youtu.be/gwGdW0vIx_k)
 - **[#1 Open-Source Video Model, GPT-5.4, New TTS, AI VFX, Long AI Videos, Video Editing AI - HUGE AI](videos/2026/mar-1-open-source-video-model-gpt-5-4-new-tts-ai-vfx/README.md)**  
