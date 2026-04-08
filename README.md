@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[Claude Mythos is Insane, GLM 5.1 Open-Sourced, Gemma 4, New TTS — HUGE AI NEWS](videos/2026/apr-claude-mythos-is-insane-glm-5-1-open-sourced-gemma-4-new-tts/README.md)**  
+  _(Week of April 8, 2026)_ → [Watch on YouTube](https://youtu.be/YwmA0Pnkal4)
 - **[Claude Code Open Sourced, New Veo Model, Wan 2.7, GLM-5V, Qwen New Model — HUGE AI](videos/2026/apr-claude-code-open-source-new-veo-wan-2-7-huge-ai/README.md)**  
   _(Week of April 2, 2026)_ → [Watch on YouTube](https://youtu.be/KTdUmIJoJhg)
 - **[New #1 Open Video Model, Top Image AI, DLS 5, AI classrooms — HUGE AI NEWS](videos/2026/mar-new-1-open-video-model-top-image-ai-dls-5-ai-classrooms/README.md)**  
