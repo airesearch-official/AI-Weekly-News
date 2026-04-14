@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[#1 Open Source Image Model, Meta is BACK, Realtime AI Games & New Video AI — HUGE AI NEWS](videos/2026/apr-1-open-source-image-model-meta-is-back-realtime-ai-games/README.md)**  
+  _(Week of April 15, 2026)_ → [Watch on YouTube](https://youtu.be/VKSC1rb4pjM)
 - **[Claude Mythos is Insane, GLM 5.1 Open-Sourced, Gemma 4, New TTS — HUGE AI NEWS](videos/2026/apr-claude-mythos-is-insane-glm-5-1-open-sourced-gemma-4-new-tts/README.md)**  
   _(Week of April 8, 2026)_ → [Watch on YouTube](https://youtu.be/YwmA0Pnkal4)
 - **[Claude Code Open Sourced, New Veo Model, Wan 2.7, GLM-5V, Qwen New Model — HUGE AI](videos/2026/apr-claude-code-open-source-new-veo-wan-2-7-huge-ai/README.md)**  
