@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[#1 Open Source Kimi K2.6, Claude Just Killed Figma, Google New TTS, Qwen 3.6  — HUGE AI](videos/2026/apr-1-open-source-kimi-k2-6-claude-just-killed-figma/README.md)**  
+  _(Week of April 22, 2026)_ → [Watch on YouTube](https://youtu.be/E8dDhH5uWZ4)
 - **[#1 Open Source Image Model, Meta is BACK, Realtime AI Games & New Video AI — HUGE AI NEWS](videos/2026/apr-1-open-source-image-model-meta-is-back-realtime-ai-games/README.md)**  
   _(Week of April 15, 2026)_ → [Watch on YouTube](https://youtu.be/VKSC1rb4pjM)
 - **[Claude Mythos is Insane, GLM 5.1 Open-Sourced, Gemma 4, New TTS — HUGE AI NEWS](videos/2026/apr-claude-mythos-is-insane-glm-5-1-open-sourced-gemma-4-new-tts/README.md)**  
