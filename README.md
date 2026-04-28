@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[#1 FREE Video Generator, New Image King, DeepSeek V4, Open Source Claude Design, GPT-5.5  — HUGE AI](videos/2026/apr-new-1-free-video-generator-new-image-king-deepseek-v4/README.md)**  
+  _(Week of April 29, 2026)_ → [Watch on YouTube](https://youtu.be/x1iQXig22oI)
 - **[#1 Open Source Kimi K2.6, Claude Just Killed Figma, Google New TTS, Qwen 3.6  — HUGE AI](videos/2026/apr-1-open-source-kimi-k2-6-claude-just-killed-figma/README.md)**  
   _(Week of April 22, 2026)_ → [Watch on YouTube](https://youtu.be/E8dDhH5uWZ4)
 - **[#1 Open Source Image Model, Meta is BACK, Realtime AI Games & New Video AI — HUGE AI NEWS](videos/2026/apr-1-open-source-image-model-meta-is-back-realtime-ai-games/README.md)**  
