@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[12M Context AI, #1 Open Image Generator, Uncensored ai Video, Robot girlfriends — HUGE AI](videos/2026/may-12m-context-ai-1-open-image-generator-uncensored-ai-video/README.md)**  
+  _(Week of May 6, 2026)_ → [Watch on YouTube](https://youtu.be/f2afaXiZ_2w)
 - **[#1 FREE Video Generator, New Image King, DeepSeek V4, Open Source Claude Design, GPT-5.5  — HUGE AI](videos/2026/apr-new-1-free-video-generator-new-image-king-deepseek-v4/README.md)**  
   _(Week of April 29, 2026)_ → [Watch on YouTube](https://youtu.be/x1iQXig22oI)
 - **[#1 Open Source Kimi K2.6, Claude Just Killed Figma, Google New TTS, Qwen 3.6  — HUGE AI](videos/2026/apr-1-open-source-kimi-k2-6-claude-just-killed-figma/README.md)**  
