@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[Gemini 3.5 Is Here, Veo 4 New Video King, Codex Mobile, Real World Models, new TTS — HUGE AI NEWS](videos/2026/may-gemini-3-5-flash-veo-4-codex-mobile-real-world-models-new-tts/README.md)**  
+  _(Week of May 20, 2026)_ → [Watch on YouTube](https://youtu.be/f2afaXiZ_2w)
 - **[12M Context AI, #1 Open Image Generator, Uncensored ai Video, Robot girlfriends — HUGE AI](videos/2026/may-12m-context-ai-1-open-image-generator-uncensored-ai-video/README.md)**  
   _(Week of May 6, 2026)_ → [Watch on YouTube](https://youtu.be/f2afaXiZ_2w)
 - **[#1 FREE Video Generator, New Image King, DeepSeek V4, Open Source Claude Design, GPT-5.5  — HUGE AI](videos/2026/apr-new-1-free-video-generator-new-image-king-deepseek-v4/README.md)**  
