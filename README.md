@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[Qwen 3.8 27B, GLM 5.3, Deepseek v4 0813, Grok 4.6, LTX 2.5, Qwen Video Edit & more](videos/2026/aug-qwen-3-8-27b-glm-5-3-deepseek-v4-grok-4-6-ltx-2-5-qwen-video-edit/README.md)**  
+  _(Week of August 21, 2026)_ → [Watch on YouTube](https://youtu.be/pUA1BGfBqBs)
 - **[Claude Opus 4.8, Minimax M3, New Top Open Source Image Generator, Real-Time AI Video Editor](videos/2026/june-claude-opus-4-8-minimax-m3-open-source-image-generator-realtime-video-editor/README.md)**  
   _(Week of June 2, 2026)_ → [Watch on YouTube](https://youtu.be/2JwEB_C1PGY)
 - **[Gemini 3.5 Is Here, Veo 4 New Video King, Codex Mobile, Real World Models, new TTS — HUGE AI NEWS](videos/2026/may-gemini-3-5-flash-veo-4-codex-mobile-real-world-models-new-tts/README.md)**  
