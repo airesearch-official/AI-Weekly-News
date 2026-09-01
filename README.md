@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[Claude Fable 5.1 Is CRAZY, Gemini Omni 1.1, MiniMax H3, New Image AI, HY4 — HUGE AI NEWS](videos/2026/sep-claude-fable-5-1-gemini-omni-1-1-minimax-h3-google-pics-hy4/README.md)**  
+  _(Week of September 2, 2026)_ → [Watch on YouTube](https://youtu.be/ScVsOertctE)
 - **[Qwen 4, Apple AI PC M6, Wan 3, Realtime AI Worlds with audio, Tiny TTS — HUGE AI NEWS](videos/2026/aug-qwen-4-apple-m6-wan-3-realtime-ai-worlds-tiny-tts/README.md)**  
   _(Week of August 25, 2026)_ → [Watch on YouTube](https://youtu.be/SBJ4M465n-k)
 - **[Qwen 3.8 27B, GLM 5.3, Deepseek v4 0813, Grok 4.6, LTX 2.5, Qwen Video Edit & more](videos/2026/aug-qwen-3-8-27b-glm-5-3-deepseek-v4-grok-4-6-ltx-2-5-qwen-video-edit/README.md)**  
