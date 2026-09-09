@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[GPT-6 Astra Is a BEAST, ChatGPT Images 2.5, Gemini 3.8 Flash & MiniMax Realtime — HUGE AI NEWS](videos/2026/sep-gpt-6-astra-chatgpt-images-2-5-gemini-3-8-flash-minimax-realtime/README.md)**  
+  _(Week of September 9, 2026)_ → [Watch on YouTube](https://youtu.be/1x29I_8RrbU)
 - **[Claude Fable 5.1 Is CRAZY, Gemini Omni 1.1, MiniMax H3, New Image AI, HY4 — HUGE AI NEWS](videos/2026/sep-claude-fable-5-1-gemini-omni-1-1-minimax-h3-google-pics-hy4/README.md)**  
   _(Week of September 2, 2026)_ → [Watch on YouTube](https://youtu.be/ScVsOertctE)
 - **[Qwen 4, Apple AI PC M6, Wan 3, Realtime AI Worlds with audio, Tiny TTS — HUGE AI NEWS](videos/2026/aug-qwen-4-apple-m6-wan-3-realtime-ai-worlds-tiny-tts/README.md)**  
