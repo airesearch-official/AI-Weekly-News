@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[NEW 200x FASTER AI, New DeepSeek, Open-Source Suno v6, Gemini 3.8 Live — HUGE AI NEWS](videos/2026/sep-new-200x-faster-ai-deepseek-4-1-flash-suno-v6-gemini-3-8-live/README.md)**  
+  _(Week of September 17, 2026)_ → [Watch on YouTube](https://youtu.be/6QTI7k_FaUA)
 - **[GPT-6 Astra Is a BEAST, ChatGPT Images 2.5, Gemini 3.8 Flash & MiniMax Realtime — HUGE AI NEWS](videos/2026/sep-gpt-6-astra-chatgpt-images-2-5-gemini-3-8-flash-minimax-realtime/README.md)**  
   _(Week of September 9, 2026)_ → [Watch on YouTube](https://youtu.be/1x29I_8RrbU)
 - **[Claude Fable 5.1 Is CRAZY, Gemini Omni 1.1, MiniMax H3, New Image AI, HY4 — HUGE AI NEWS](videos/2026/sep-claude-fable-5-1-gemini-omni-1-1-minimax-h3-google-pics-hy4/README.md)**  
