@@ -3,7 +3,7 @@
 
 📅 Published: September 23, 2026  
 🎥 Watch the full video here:  
-[![Watch on YouTube](https://img.youtube.com/vi/6QTI7k_FaUA/0.jpg)](https://youtu.be/6QTI7k_FaUA)
+[![Watch on YouTube](https://img.youtube.com/vi/EDt3h64y0Jw/0.jpg)](https://youtu.be/EDt3h64y0Jw)
 
 ---
 
@@ -85,7 +85,7 @@ This week demonstrates the maturation of the AI frontier into distinct specializ
 👉 Which release are you most excited to deploy — Claude Opus 5.5 for coding, Qwen 3.8 Omni Flash, or the ternary Bonsai 27B?
 
 💬 Drop your thoughts in the video comments:
-[Watch the full video on YouTube](https://youtu.be/6QTI7k_FaUA)
+[Watch the full video on YouTube](https://youtu.be/EDt3h64y0Jw)
 
 ---
 
