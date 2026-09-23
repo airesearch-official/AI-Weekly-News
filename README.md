@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[Claude Opus 5.5, GPT-6 Sol & Luna, Qwen 3.8 Omni Flash, OpenAI Breach, Odyssey 3 — HUGE AI NEWS](videos/2026/sep-claude-opus-5-5-gpt-6-sol-qwen-3-8-omni-openai-breach/README.md)**  
+  _(Week of September 23, 2026)_ → [Watch on YouTube](https://youtu.be/6QTI7k_FaUA)
 - **[NEW 200x FASTER AI, New DeepSeek, Open-Source Suno v6, Gemini 3.8 Live — HUGE AI NEWS](videos/2026/sep-new-200x-faster-ai-deepseek-4-1-flash-suno-v6-gemini-3-8-live/README.md)**  
   _(Week of September 17, 2026)_ → [Watch on YouTube](https://youtu.be/6QTI7k_FaUA)
 - **[GPT-6 Astra Is a BEAST, ChatGPT Images 2.5, Gemini 3.8 Flash & MiniMax Realtime — HUGE AI NEWS](videos/2026/sep-gpt-6-astra-chatgpt-images-2-5-gemini-3-8-flash-minimax-realtime/README.md)**  
