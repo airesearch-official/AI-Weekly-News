@@ -3,6 +3,8 @@
 Welcome to **AI Weekly News**, a curated archive of the latest developments in **Artificial Intelligence, open-source tools, and research projects** — updated weekly with summaries, sources, and YouTube video links.
 
 ## 📺 Latest Episode
+- **[NEW DeepSeek, Claude Bot, #1 Open Image Model, MiniMax M3.1, Quantum Breakthrough — HUGE AI NEWS](videos/2026/oct-new-deepseek-claude-bot-minimax-m3-1-quantum/README.md)**  
+  _(Week of October 22, 2026)_ → [Watch on YouTube](https://youtu.be/owTrzRXfsmM)
 - **[Gemini 4 & Nano Banana 2.1, Claude Haiku 5.5, FLUX 3 & New Video AI — HUGE AI NEWS](videos/2026/oct-gemini-4-nano-banana-2-1-claude-haiku-5-5-flux-3/README.md)**  
   _(Week of October 8, 2026)_ → [Watch on YouTube](https://youtu.be/Kfjaz_YFLM0)
 - **[OPEN-SOURCE GPT IMAGE 2.5, GPT-6.1, Sonnet 5.5, Kling 4, OpenAI Dots — HUGE AI NEWS](videos/2026/oct-gpt-image-2-5-gpt-6-1-sonnet-5-5-kling-4-openai-dots/README.md)**  
